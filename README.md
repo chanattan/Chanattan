@@ -1,5 +1,8 @@
-### Chanattan Sok
+## Chanattan Sok
+
+### About me
 
 I am a CS student at ENS Rennes,
-I mainly develop softwares and tools related to content creation.
-As you would notice, I am a deep enjoyer of the OOP philosphy.
+I mainly develop softwares and tools related to content creation to ease a content creator's life.\
+As you would notice, I am an adept of the OOP philosphy.
+
