@@ -13,5 +13,5 @@ I believe getting closer to a certain genuine artifical intelligence this way.
 This is my last official multi-agent system project conducted at INSA Lyon CITI lab - Inria Lyon about pedestrians movements:<br>
 https://github.com/chanattan/CNM
 
-Another multi-agent project about climate negotiations present elsewhere:<br>
+Another multi-agent project about climate negotiations present elsewhere at Sorbonne University Paris:<br>
 https://gitlab.lip6.fr/sok/tweakable_model
